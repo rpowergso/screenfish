@@ -27,3 +27,7 @@ The sound effects can be rebuilt from source with `python tools/generate_sounds.
 ## License
 
 ScreenFish and the included sound effects are available under the [MIT License](LICENSE).
+
+## Bugs and feedback
+
+[Report a bug](https://github.com/rpowergso/screenfish/issues/new?template=bug_report.yml) · [Share feedback or suggest a feature](https://github.com/rpowergso/screenfish/issues/new?template=feedback.yml)
